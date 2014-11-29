@@ -50,9 +50,9 @@ This is an example which logs into runtastic, fetches every activity in your acc
 	
 #### Output
 
-```
 This is what a typical activity object looks like:
 
+```
 Logged in with mail@example.com
 
 Session-URL: https://www.runtastic.com/en/users/firstname-lastname/sport-sessions/
