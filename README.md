@@ -50,6 +50,7 @@ This is an example which logs into runtastic, fetches every activity in your acc
 	
 #### Output
 
+```
 This is what a typical activity object looks like:
 
 Logged in with mail@example.com
@@ -61,6 +62,7 @@ UID: 47111337
 Token: JjkAF88asfjKAkKFJkgjksdllLASj99=
 
 -- ACTIVITY DATA AS JSON --
+```
 
 License
 -------
